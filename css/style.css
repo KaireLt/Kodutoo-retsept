@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&family=Rubik+Bubbles&display=swap');
+
+body {
+    background-color: pink;
+}
+
+.heading {
+    text-align: center;
+}
+
+.pk-heading {
+    text-align: center;
+    color: firebrick;
+    font-family: 'Preahvihear', cursive;
+}
+
+.ingredients {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+.ingredients-table {
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+#yellow {
+    color: yellow;
+}
+
+.instructions {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#blue {
+    color: blue;
+}
+
+.instructions ol {
+    width: 65%;
+    margin: 0 auto;
+    border: 1px solid green;
+}
+
+.heading2 {
+    text-align: center;
+    color: lightcoral;
+}
+
+.pk-heading2 {
+    text-align: center;
+    color: green;
+    font-family: 'Rubik+Bubbles', cursive;
+}
+
+.source {
+    width: 50%;
+    margin: 0 auto; 
+}
+
+.footer {
+    color: rgb(62, 2, 118);
+    font-family: 'Rubik+Bubbles', cursive;
+    text-align: left;
+    font-size: 1rem;
+}
